@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: milestone4.TestingRestAPI
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.619 s -- in milestone4.TestingRestAPI
